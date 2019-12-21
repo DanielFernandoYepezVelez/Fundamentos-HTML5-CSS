@@ -1,0 +1,39 @@
+/* rbg Valores de 0 a 255 
+red-green-blue */
+
+h1 {
+    color: rgb(38, 231, 38);
+}
+
+
+/* Codigo Hexadecimal
+los dos primeros valores representa el rojo 
+los dos segundos valores representa el verde 
+los dos terceros valores representa el azul 
+Va de (0-F)*/
+
+h2 {
+    color: #F84FFF;
+}
+
+
+/* tiene el mismo formato que el RGB
+solo que agrega una transparencia
+que va de 0 a 1, utilizando números
+decimales */
+
+h3 {
+    color: rgba(55, 12, 100, 0.5);
+}
+
+h4 {
+    color: red;
+}
+
+h5 {
+    color: red;
+}
+
+h6 {
+    color: red;
+}

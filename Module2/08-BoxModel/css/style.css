@@ -1,0 +1,20 @@
+.titleHeader {
+    background-color: chartreuse;
+    padding: 10px;
+    border: solid salmon 2px;
+    margin: 10px;
+}
+
+.descriptionParagraph {
+    background-color: aqua;
+    padding: 10px;
+    border: 2px dotted greenyellow;
+    margin: 10px;
+}
+
+div {
+    background-color: crimson;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+}

@@ -1,0 +1,36 @@
+¿FUNCIONES DEL DESARROLLO WEB?
+Codificar una página Web o Aplicación Web.
+Configurar una computadora para servir una página o Aplicación Web.
+Preparar un lugar para almacenar los datos.
+
+¿ROLES EN EL DESARROLLO WEB Y MOVIL?
+FRONT-END
+BACK-END
+
+¿FUNCIONES DEL DESARROLLO BACK-END?
+Persistir información del usuario.
+Autenticación de usuarios.
+Procesamiento de pagos.
+Petición de imágenes y videos.
+Calculos Matemáticos.
+
+DIFERENCIAS ENTRE
+Páginas Web =>
+Son sencillas y presentan informacion al usuario.
+Contienen imágenes, textos, pocos botones.
+No hay una lógica compleja detrás.
+
+Aplicaciones Web =>
+Funcionalidades Complicadas.
+Están diseñadas para facilitar la realización de ciertas tareas.
+-----------------------------------------------------------------
+
+HERRAMIENTA IMPORTANTE PARA COLORES
+EN FORMATO HEXADECIMALES(0-F) Y 
+EN FORMATO RGB(0-255) =>
+Adobe Color Wheel
+
+FORMATO RBGA(0-255-alpha) =>
+Este formato lo que hace es agregar una transparencia
+que va de 0 a 1 y se puede utilizar números con parte decimal.
+-----------------------------------------------------------------

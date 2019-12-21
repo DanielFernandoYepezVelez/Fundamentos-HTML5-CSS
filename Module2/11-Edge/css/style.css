@@ -1,0 +1,57 @@
+.block {
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+    margin: 10px;
+}
+
+.edgeOne {
+    border: red solid 3px;
+}
+
+.edgeTwo {
+    border-top: blue solid 3px;
+}
+
+.edgeThree {
+    border-right: green solid 3px;
+}
+
+.edgeFour {
+    border-bottom: black solid 3px;
+}
+
+.edgeFive {
+    border-left: chartreuse solid 3px;
+}
+
+.edgeSix {
+    border-color: coral;
+    border-style: dotted;
+    border-width: 7px;
+}
+
+.edgeSeven {
+    border: yellowgreen solid 3px;
+    border-radius: 10px;
+}
+
+.edgeEight {
+    border: gray solid 3px;
+    border-top-left-radius: 15px;
+}
+
+.edgeNine {
+    border: gray solid 3px;
+    border-top-right-radius: 15px;
+}
+
+.edgeTen {
+    border: gray solid 3px;
+    border-bottom-right-radius: 15px;
+}
+
+.edgeEleven {
+    border: gray solid 3px;
+    border-bottom-left-radius: 15px;
+}

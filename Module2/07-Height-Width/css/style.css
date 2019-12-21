@@ -1,0 +1,11 @@
+.blockOne {
+    background-color: #ff0000;
+    height: 100px;
+    width: 100px;
+}
+
+.blockTwo {
+    background-color: rgba(23, 12, 255, .3);
+    height: 100px;
+    width: 100px;
+}
