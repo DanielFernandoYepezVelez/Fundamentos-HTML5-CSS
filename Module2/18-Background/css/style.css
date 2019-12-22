@@ -1,0 +1,30 @@
+body {
+    background-image: url('../../14-Images/images/paraFondo.jpg');
+    /*
+    EJE-HORIZONTAL, EJE-VERTICAL
+    background-position-x: 200px;
+    background-position-y: 200px;
+    background-position: 200px 200px;
+    background-repeat: no-repeat; 
+    */
+    /* -------------------------------- */
+    /*
+    ALTURA Y ANCHO(VALORES NEGATIVOS)
+    background-size: 200px;
+    background-size: 200px 500px;
+    background-size: -200px;
+    background-size: -200px -500px;
+    */
+    /* -------------------------------- */
+    /*
+    SE AJUSTA AL ESPACIO QUE TENGA DISPONIBLE
+    background-size: cover;
+    */
+    /* -------------------------------- */
+    /*
+    PARA QUE SE REPITA LA IMAGEN EN LA DIRECCIÓN INDICADA
+    background-size: 200px 500px;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y; 
+    */
+}

@@ -1,0 +1,40 @@
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: mediumpurple;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    margin: 20px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+
+/* Esto es ideal para que la
+margenes no se toquen o colapsen */
+
+.margin-collapse {
+    height: 1px;
+    /* background-color: rebeccapurple; */
+    background-color: white;
+}
+
+
+/* Para centrar de forma vertical 
+debo darle el mismo valor de la 
+altural en la propiedad line-height
+de su elemento padre  */
+
+p {
+    text-align: center;
+    line-height: 200px;
+}
