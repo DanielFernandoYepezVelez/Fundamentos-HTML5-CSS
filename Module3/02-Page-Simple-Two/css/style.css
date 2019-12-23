@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    background-image: url("../img/fondo.png");
+    background-repeat: no-repeat;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    margin-top: 24px;
+    margin-left: 60px;
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
+
+ul {
+    padding-left: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    margin-left: 220px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 160px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: white;
+    margin-top: 32px;
+    text-align: center;
+    width: 500px;
+    font-size: 18px;
+    margin: auto;
+}
+
+.box-botton {
+    margin: auto;
+    /*
+    Esta propiedad es para definir el ancho
+    del espacio disponible que tenga una 
+    etiqueta a su alcance, en caso de que no
+    tenga uno ancho asignado
+    */
+    width: fit-content;
+    margin-top: 40px;
+}
+
+div {
+    display: inline-block;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+
+.botonOne {
+    height: 40px;
+    width: 120px;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #0c0480;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.botonTwo {
+    height: 40px;
+    width: 120px;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    border: white solid 1px;
+    cursor: pointer;
+}

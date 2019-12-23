@@ -1,3 +1,8 @@
+/* top, right, bottom, left 
+    Tener presente que funcionan de forma
+    inversa a la posicón elegida
+*/
+
 div {
     height: 200px;
     width: 200px;
