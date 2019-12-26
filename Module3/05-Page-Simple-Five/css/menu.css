@@ -1,0 +1,37 @@
+#menu {
+    margin: 0 70px;
+    margin-top: 40px;
+}
+
+.right {
+    float: right;
+    position: relative;
+    bottom: 75px;
+}
+
+ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #74DFFF;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+a:hover {
+    color: white;
+}
+
+.space {
+    display: inline-block;
+    width: 10px;
+}

@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-image: url('../img/fondo.png');
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botton {
+    height: 50px;
+    width: 180px;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+.btn-version1 {
+    border: white solid 2px;
+    color: white;
+}
+
+.btn-version2 {
+    background-color: #26c777;
+    color: white;
+}
+
+.btn-version3 {
+    background-color: white;
+    color: #01c0c8;
+}
