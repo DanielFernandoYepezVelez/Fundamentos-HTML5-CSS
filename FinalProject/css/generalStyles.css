@@ -1,0 +1,23 @@
+body {
+    background-color: #eaeaea;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.table {
+    width: 400px;
+    display: inline-block;
+}
+
+.green-dark {
+    background-color: #5acebd;
+}
+
+.green-regular {
+    background-color: #4adbc5;
+}
+
+.green-light {
+    background-color: #03ebc8;
+}

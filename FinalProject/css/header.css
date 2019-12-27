@@ -1,0 +1,29 @@
+.header {
+    height: 40px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px 10px 0 0;
+}
+
+.header-price {
+    height: 184px;
+    text-align: center;
+    color: white;
+}
+
+.regular-price-text {
+    font-size: 40px;
+}
+
+.big-price-text {
+    font-size: 100px;
+}
+
+.price-description {
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 10px;
+}

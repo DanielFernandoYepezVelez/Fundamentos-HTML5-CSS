@@ -1,0 +1,21 @@
+.footer {
+    border-radius: 0 0 10px 10px;
+    position: relative;
+    bottom: 29.9px;
+}
+
+.content-bottom {
+    height: 47px;
+    border-radius: 0 0 10px 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 47px;
+    padding-top: 2px;
+}
+
+.content-bottom-children {
+    height: 3px;
+    border-radius: 0 0 10px 10px;
+}
