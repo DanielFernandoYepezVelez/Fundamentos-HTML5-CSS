@@ -1,0 +1,42 @@
+.upper-part {
+    height: 220px;
+    background-color: gainsboro;
+    border-radius: 10px 10px 0 0;
+}
+
+.personal {
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+    background-color: #3BB9CC;
+    border-radius: 10px 10px 0 0;
+}
+
+.wrapper-price {
+    height: 180px;
+    color: white;
+    text-align: center;
+    line-height: 130px;
+    background-color: #00C1DE;
+}
+
+.regular-price-text {
+    font-size: 40px;
+}
+
+.big-price-text {
+    font-size: 100px;
+}
+
+.text-freelance {
+    width: fit-content;
+    margin: auto;
+    position: relative;
+    bottom: 55px;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}

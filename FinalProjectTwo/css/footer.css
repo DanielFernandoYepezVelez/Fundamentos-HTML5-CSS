@@ -1,0 +1,22 @@
+footer {
+    background-color: #00C1DE;
+    border-radius: 0 0 10px 10px;
+    height: 84px;
+}
+
+.wrapper-interno {
+    height: 67px;
+    border-radius: 0 0 10px 10px;
+    background-color: #3BB9CC;
+    text-align: center;
+    line-height: 67px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.line-final {
+    height: 2px;
+    background-color: #3BB9CC;
+    ;
+}
