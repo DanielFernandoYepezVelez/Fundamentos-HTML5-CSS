@@ -27,11 +27,13 @@ block no va a funcionar el display inline como es el
 caso de la etiqueta del h1 del titulo de la imagen*/
 
 
-/* LA propiedad text-aling me funciona para cuando
-el display es inline o inline-block */
+/* Si bien Img es de displa inline, la etiqueta h1 no 
+lo es, por ende estan en block, por que la
+etiqueta h1 esta en el interior de .image-block */
+
+
+/* text-aling me sirve para alinear texto e imagenes */
 
 .image-block {
-    /* display: inline; */
-    display: inline-block;
     text-align: center;
 }
