@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper-all-content {
+    display: flex;
+    justify-content: center;
+}
+
+.section-all-content {
+    width: 350px;
+    height: 485px;
+    margin-top: 45px;
+    background-color: white;
+    /* background-color: rgb(221, 220, 219); */
+    border-radius: 10px;
+}

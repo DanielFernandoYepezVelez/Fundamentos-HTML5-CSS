@@ -1,0 +1,50 @@
+main {
+    background-color: white;
+}
+
+.wrapper-triangulillo {
+    width: fit-content;
+    margin: auto;
+}
+
+.triangulillo {
+    position: relative;
+    bottom: 2.5px;
+}
+
+ul {
+    margin: 0;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+figure {
+    margin: 0;
+}
+
+ul li span {
+    float: right;
+    position: relative;
+    bottom: 25px;
+    right: 200px;
+    text-align: center;
+}
+
+.textOne {
+    position: relative;
+    right: 90px;
+}
+
+.textTwo {
+    position: relative;
+    right: 185px;
+}
+
+.textThree {
+    position: relative;
+    right: 150px;
+}

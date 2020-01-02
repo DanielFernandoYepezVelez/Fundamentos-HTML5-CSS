@@ -1,0 +1,39 @@
+header {
+    height: 205px;
+    background-color: rgb(216, 49, 88);
+    border-radius: 7px 7px 0 0;
+}
+
+.bussines {
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    background-color: #FA6889;
+    border-radius: 7px 7px 0 0;
+}
+
+.wrapper-price {
+    text-align: center;
+    line-height: 120px;
+    color: white;
+}
+
+.regular-price-text {
+    font-size: 40px;
+}
+
+.big-price-text {
+    font-size: 80px;
+}
+
+.paragraphs {
+    margin: 0;
+    text-align: center;
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
